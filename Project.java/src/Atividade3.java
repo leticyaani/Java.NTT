@@ -1,3 +1,4 @@
+//tabuada de acordo com o número digitado pelo usuário
 import java.util.Scanner;
 
         public class Atividade3 {
