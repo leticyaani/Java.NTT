@@ -1,4 +1,4 @@
-//tabea imc
+//Tabela imc
 import java.util.Scanner;
 
     public class Atividade4 {
