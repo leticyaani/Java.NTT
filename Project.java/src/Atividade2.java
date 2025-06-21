@@ -1,3 +1,4 @@
+//Comparando idade entre duas pessoas
 import java.util.Scanner;
 
 public class Atividade2 {
