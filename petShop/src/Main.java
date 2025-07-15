@@ -29,7 +29,7 @@ private final static PetMachine petMachine = new PetMachine();
                 case 3 -> setShampoo();
                 case 4 -> VerifyWater();
                 case 5 -> VerifyShampoo();
-                case 6 -> petMachine.removePet();
+                case 6 -> checkIfHasPetInMachine();
                 case 7 -> setPetInPetMachine();
                 case 8 -> petMachine.removePet();
                 case 9 -> petMachine.wash();
